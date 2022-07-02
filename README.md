@@ -1,5 +1,4 @@
 # SMU_ChatBot
-ChatBot Created For The SMU 2022 Hackathon
 
 Campaigns surrounding employment rights are common. But this commonality is futile — many youths are still oblivious to the same. We proffer two reasons for this: 
 (1) these campaigns do not fully reach youths; and 
